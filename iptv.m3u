@@ -1,22 +1,35 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR #VAMOS" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR #VAMOS
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13467
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR VAMOS HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR VAMOS HD
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13466
 #EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR VAMOS FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR VAMOS FHD
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13465
 #EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES | LIGATV BAR FHD" tvg-logo="" group-title="Spain-Deportes",ES | LIGATV BAR FHD
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13464
 #EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES | MOVISTAR LA LIGA" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13463
 #EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES | MOVISTAR LALIGA HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LALIGA HD
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13462
 #EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES | MOVISTAR LA LIGA FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FULLHD
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13461
 #EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD (BACKUP)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FHD (BACKUP)
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/34694
 #EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD (2K)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FHD (2K)
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13356
 #EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA (4K)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA (4K)
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13355
 #EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES | MOVISTAR LA LIGA 1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 1
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13460
 #EXTINF:-1 tvg-id="TVE ASTRA HD 1.sp" tvg-name="ES | MOVISTAR LA LIGA 1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 1 FULLHD
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13459
 #EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES | MOVISTAR  LA LIGA 2" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  LA LIGA 2
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13458
 #EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES | MOVISTAR LA LIGA 2 FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 2 FHD
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13457
 #EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES | MOVISTAR  LA LIGA 3" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  LA LIGA 3
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13456
 #EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES | MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13455
 #EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-name="ES | MOVISTAR LA LIGA 4" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 4
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LALIGA 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LALIGA 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
-#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+http://trialjet.org:8080/javier.izuelvg/oy4qipglgr/13454
