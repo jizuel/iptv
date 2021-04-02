@@ -1,0 +1,306 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1" tvg-logo="" group-title="Spain-Deportes",ES | DAZN F1
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1 HD" tvg-logo="" group-title="Spain-Deportes",ES | DAZN F1 HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN F1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | DAZN F1 FULLHD
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES | LA 1" tvg-logo="" group-title="Spain-TDT",ES | LA 1
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES | LA 1 HD" tvg-logo="" group-title="Spain-TDT",ES | LA 1 HD
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES | LA 1 FHD" tvg-logo="" group-title="Spain-TDT",ES | LA 1 FHD
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES | LA 2" tvg-logo="" group-title="Spain-TDT",ES | LA 2
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES | La 2 FHD" tvg-logo="" group-title="Spain-TDT",ES | La 2 FHD
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | ANTENA 3" tvg-logo="" group-title="Spain-TDT",ES | ANTENA 3
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES | ANTENA 3 HD" tvg-logo="" group-title="Spain-TDT",ES | ANTENA 3 HD
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="ES | ANTENA 3 FHD" tvg-logo="" group-title="Spain-TDT",ES | ANTENA 3 FHD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | CUATRO" tvg-logo="" group-title="Spain-TDT",ES | CUATRO
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES | CUATRO HD" tvg-logo="" group-title="Spain-TDT",ES | CUATRO HD
+#EXTINF:-1 tvg-id="es.Cuatro" tvg-name="ES | CUATRO FHD" tvg-logo="" group-title="Spain-TDT",ES | CUATRO FHD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | TELECINCO" tvg-logo="" group-title="Spain-TDT",ES | TELECINCO
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES | TELECINCO HD" tvg-logo="" group-title="Spain-TDT",ES | TELECINCO HD
+#EXTINF:-1 tvg-id="Telecinco.TV" tvg-name="ES | TELECINCO FULLHD" tvg-logo="" group-title="Spain-TDT",ES | TELECINCO FULLHD
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES | LA SEXTA" tvg-logo="" group-title="Spain-TDT",ES | LA SEXTA
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES | LA SEXTA HD" tvg-logo="" group-title="Spain-TDT",ES | LA SEXTA HD
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES | LA SEXTA  FHD" tvg-logo="" group-title="Spain-TDT",ES | LA SEXTA  FHD
+#EXTINF:-1 tvg-id="canal.24h.es" tvg-name="ES | 24 HORAS" tvg-logo="" group-title="Spain-TDT",ES | 24 HORAS
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="ES | MOVISTAR CERO SD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CERO SD
+#EXTINF:-1 tvg-id="Hashtag0.es" tvg-name="ES | MOVISTAR CERO HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CERO HD
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES | MOVISTAR CERO FULLHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CERO FULLHD
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="ES | MOVISTAR ESTRENOS" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ESTRENOS
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="ES | MOVISTAR ESTRENOS HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ESTRENOS HD
+#EXTINF:-1 tvg-id="CanalPlusEstrenos.sp" tvg-name="ES | MOVISTAR ESTRENOS FULLHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ESTRENOS FULLHD
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="ES | MOVISTAR  ACCION" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR  ACCION
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="ES | MOVISTAR ACCION HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ACCION HD
+#EXTINF:-1 tvg-id="CanalPlusAccion.es" tvg-name="ES | MOVISTAR ACCION FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR ACCION FHD
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES | MOVISTAR COMEDIA" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR COMEDIA
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES | MOVISTAR COMEDIA HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR COMEDIA HD
+#EXTINF:-1 tvg-id="CanalPlusComedia.es" tvg-name="ES | MOVISTAR COMEDIA FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR COMEDIA FHD
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES | MOVISTAR DRAMA" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DRAMA
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="ES | MOVISTAR DRAMA HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DRAMA HD
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES | MOVISTAR DRAMA FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DRAMA FHD
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="ES | MOVISTAR DCINE Ñ" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR DCINE Ñ
+#EXTINF:-1 tvg-id="M.CineDocRoll.es" tvg-name="ES | MOVISTAR CINEDOC&ROLL" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CINEDOC&ROLL
+#EXTINF:-1 tvg-id="M.CineDocRoll.es" tvg-name="ES | MOVISTAR CINEDOC&ROLL HD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CINEDOC&ROLL HD
+#EXTINF:-1 tvg-id="M.CineDocRoll.es" tvg-name="ES | MOVISTAR CINEDOC&ROLL FHD" tvg-logo="" group-title="Spain-Movistar",ES | MOVISTAR CINEDOC&ROLL FHD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES | HOLLYWOOD" tvg-logo="" group-title="Spain-Movistar",ES | HOLLYWOOD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES | HOLLYWOOD HD" tvg-logo="" group-title="Spain-Movistar",ES | HOLLYWOOD HD
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES | HOLLYWOOD FHD" tvg-logo="" group-title="Spain-Movistar",ES | HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="TCM.sp" tvg-name="ES | TCM" tvg-logo="" group-title="Spain-Movistar",ES | TCM
+#EXTINF:-1 tvg-id="TCM.sp" tvg-name="ES | TCM HD" tvg-logo="" group-title="Spain-Movistar",ES | TCM HD
+#EXTINF:-1 tvg-id="TCM.sp" tvg-name="ES | TCM FHD" tvg-logo="" group-title="Spain-Movistar",ES | TCM FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | SUNDANCE" tvg-logo="" group-title="Spain-Movistar",ES | SUNDANCE
+#EXTINF:-1 tvg-id="" tvg-name="ES | SUNDANCE HD" tvg-logo="" group-title="Spain-Movistar",ES | SUNDANCE HD
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="ES | SUNDANCE Fullhd" tvg-logo="" group-title="Spain-Movistar",ES | SUNDANCE Fullhd
+#EXTINF:-1 tvg-id="Dark" tvg-name="ES | DARK FHD" tvg-logo="" group-title="Spain-Movistar",ES | DARK FHD
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="ES | XTREM" tvg-logo="" group-title="Spain-Movistar",ES | XTREM
+#EXTINF:-1 tvg-id="" tvg-name="ES | XTREM HD" tvg-logo="" group-title="Spain-Movistar",ES | XTREM HD
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES | XTREM FULLHD" tvg-logo="" group-title="Spain-Movistar",ES | XTREM FULLHD
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES | SOMOS FHD" tvg-logo="" group-title="Spain-Movistar",ES | SOMOS FHD
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES | PARAMOUNT CHANNEL" tvg-logo="" group-title="Spain-Movistar",ES | PARAMOUNT CHANNEL
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES | MOVISTAR SERIES" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIES
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES | MOVISTAR SERIES HD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIES HD
+#EXTINF:-1 tvg-id="CanalPlusSeries.sp" tvg-name="ES | MOVISTAR SERIES FULLHD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIES FULLHD
+#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="ES | MOVISTAR SERIESMANIA" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIESMANIA
+#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="ES | MOVISTAR SERIESMANIA HD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIESMANIA HD
+#EXTINF:-1 tvg-id="CanalPlusSeriesXtra.sp" tvg-name="ES | MOVISTAR SERIESMANIA FULLHD" tvg-logo="" group-title="Spain-series",ES | MOVISTAR SERIESMANIA FULLHD
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES | CALLE 13" tvg-logo="" group-title="Spain-series",ES | CALLE 13
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES | CALLE 13 HD" tvg-logo="" group-title="Spain-series",ES | CALLE 13 HD
+#EXTINF:-1 tvg-id="Calle13.sp" tvg-name="ES | CALLE 13 FULLHD" tvg-logo="" group-title="Spain-series",ES | CALLE 13 FULLHD
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES | FOX" tvg-logo="" group-title="Spain-series",ES | FOX
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES | FOX HD" tvg-logo="" group-title="Spain-series",ES | FOX HD
+#EXTINF:-1 tvg-id="Fox.sp" tvg-name="ES | FOX FULLHD" tvg-logo="" group-title="Spain-series",ES | FOX FULLHD
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ES | FOX LIFE" tvg-logo="" group-title="Spain-series",ES | FOX LIFE
+#EXTINF:-1 tvg-id="FoxLife.es" tvg-name="ES | FOX LIVE HD" tvg-logo="" group-title="Spain-series",ES | FOX LIVE HD
+#EXTINF:-1 tvg-id="FoxLife.sp" tvg-name="ES | FOX LIFE FULLHD" tvg-logo="" group-title="Spain-series",ES | FOX LIFE FULLHD
+#EXTINF:-1 tvg-id="AXNhd.es" tvg-name="ES | AXN" tvg-logo="" group-title="Spain-series",ES | AXN
+#EXTINF:-1 tvg-id="AXNhd.es" tvg-name="ES | AXN HD" tvg-logo="" group-title="Spain-series",ES | AXN HD
+#EXTINF:-1 tvg-id="AXNhd.sp" tvg-name="ES | AXN FULL HD" tvg-logo="" group-title="Spain-series",ES | AXN FULL HD
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES | AXN WHITE" tvg-logo="" group-title="Spain-series",ES | AXN WHITE
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES | AXN WAHITE HD" tvg-logo="" group-title="Spain-series",ES | AXN WAHITE HD
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES | AXN WHITE FHD" tvg-logo="" group-title="Spain-series",ES | AXN WHITE FHD
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES | AMC" tvg-logo="" group-title="Spain-series",ES | AMC
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES | AMC HD" tvg-logo="" group-title="Spain-series",ES | AMC HD
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES | AMC FHD" tvg-logo="" group-title="Spain-series",ES | AMC FHD
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES | TNT" tvg-logo="" group-title="Spain-series",ES | TNT
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES | TNT HD" tvg-logo="" group-title="Spain-series",ES | TNT HD
+#EXTINF:-1 tvg-id="TNT.sp" tvg-name="ES | TNT FHD" tvg-logo="" group-title="Spain-series",ES | TNT FHD
+#EXTINF:-1 tvg-id="Scifi.es" tvg-name="ES | SYFY" tvg-logo="" group-title="Spain-series",ES | SYFY
+#EXTINF:-1 tvg-id="Scifi.es" tvg-name="ES | SYFY HD" tvg-logo="" group-title="Spain-series",ES | SYFY HD
+#EXTINF:-1 tvg-id="Scifi.sp" tvg-name="ES | SYFY FHD" tvg-logo="" group-title="Spain-series",ES | SYFY FHD
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES | COSMOS" tvg-logo="" group-title="Spain-series",ES | COSMOS
+#EXTINF:-1 tvg-id="" tvg-name="ES | COSMOS HD" tvg-logo="" group-title="Spain-series",ES | COSMOS HD
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES | COSMOPOLITAN  FULLHD" tvg-logo="" group-title="Spain-series",ES | COSMOPOLITAN  FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | COMEDY CENTRAL" tvg-logo="" group-title="Spain-series",ES | COMEDY CENTRAL
+#EXTINF:-1 tvg-id="" tvg-name="ES | COMEDY CENTRAL HD" tvg-logo="" group-title="Spain-series",ES | COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES | COMEDY CENTRAL FULLHD" tvg-logo="" group-title="Spain-series",ES | COMEDY CENTRAL FULLHD
+#EXTINF:-1 tvg-id="MTVEsp.sp" tvg-name="ES | MTV" tvg-logo="" group-title="Spain-series",ES | MTV
+#EXTINF:-1 tvg-id="FDF.es" tvg-name="ES | FDF" tvg-logo="" group-title="Spain-series",ES | FDF
+#EXTINF:-1 tvg-id="Antena3.TV" tvg-name="ES | A3SERIES" tvg-logo="" group-title="Spain-series",ES | A3SERIES
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES | MEGA" tvg-logo="" group-title="Spain-series",ES | MEGA
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES | ENERGY" tvg-logo="" group-title="Spain-series",ES | ENERGY
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="ES | DIVINITY" tvg-logo="" group-title="Spain-series",ES | DIVINITY
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="ES | CRIMEN  + INVESTIGACION" tvg-logo="" group-title="Spain-series",ES | CRIMEN  + INVESTIGACION
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | DECASA" tvg-logo="" group-title="Spain-series",ES | DECASA
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | DECASA HD" tvg-logo="" group-title="Spain-series",ES | DECASA HD
+#EXTINF:-1 tvg-id="Decasa.es" tvg-name="ES | DECASA FULLHD" tvg-logo="" group-title="Spain-series",ES | DECASA FULLHD
+#EXTINF:-1 tvg-id="Cocina.es" tvg-name="ES | CANAL COCINA" tvg-logo="" group-title="Spain-series",ES | CANAL COCINA
+#EXTINF:-1 tvg-id="Cocina.es" tvg-name="ES | CANAL COCINA HD" tvg-logo="" group-title="Spain-series",ES | CANAL COCINA HD
+#EXTINF:-1 tvg-id="Cocina.es" tvg-name="ES | CANAL COCINA FULLHD" tvg-logo="" group-title="Spain-series",ES | CANAL COCINA FULLHD
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES | BE MAD" tvg-logo="" group-title="Spain-series",ES | BE MAD
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES | BE MAD HD" tvg-logo="" group-title="Spain-series",ES | BE MAD HD
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES | BE MAD FHD" tvg-logo="" group-title="Spain-series",ES | BE MAD FHD
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES | NEOX" tvg-logo="" group-title="Spain-series",ES | NEOX
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES | NOVA" tvg-logo="" group-title="Spain-series",ES | NOVA
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES | ODISEA FHD" tvg-logo="" group-title="Spain-series",ES | ODISEA FHD
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="ES | BLAZE FHD" tvg-logo="" group-title="Spain-series",ES | BLAZE FHD
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES | Iberalia HD CAZA" tvg-logo="" group-title="Spain-series",ES | Iberalia HD CAZA
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES | Iberalia HD PESCA" tvg-logo="" group-title="Spain-series",ES | Iberalia HD PESCA
+#EXTINF:-1 tvg-id="DisneyJr.sp" tvg-name="ES | DISNEY JR" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY JR
+#EXTINF:-1 tvg-id="Disney+.es" tvg-name="ES | DISNEY CHANNEL" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-name="ES | DISNEY CHANNEL HD" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY CHANNEL HD
+#EXTINF:-1 tvg-id="DisneyChannel.sp" tvg-name="ES | DISNEY CHANNEL FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | DISNEY CHANNEL FULLHD
+#EXTINF:-1 tvg-id="Disney+.es" tvg-name="ES | Disney+" tvg-logo="" group-title="Spain-Infantiles",ES | Disney+
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES | CLAN" tvg-logo="" group-title="Spain-Infantiles",ES | CLAN
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES | CLAN HD" tvg-logo="" group-title="Spain-Infantiles",ES | CLAN HD
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES | CLAN FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | CLAN FULLHD
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES | BOING" tvg-logo="" group-title="Spain-Infantiles",ES | BOING
+#EXTINF:-1 tvg-id="Panda.es" tvg-name="ES | CANAL PANDA" tvg-logo="" group-title="Spain-Infantiles",ES | CANAL PANDA
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="ES | BABY  TV" tvg-logo="" group-title="Spain-Infantiles",ES | BABY  TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | NICKELODEON" tvg-logo="" group-title="Spain-Infantiles",ES | NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES | NICKELODEON HD" tvg-logo="" group-title="Spain-Infantiles",ES | NICKELODEON HD
+#EXTINF:-1 tvg-id="Nickelodeon.sp" tvg-name="ES | NICKELODEON FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | NICKELODEON FULLHD
+#EXTINF:-1 tvg-id="NickJunior.sp" tvg-name="ES | NICK JR" tvg-logo="" group-title="Spain-Infantiles",ES | NICK JR
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES | HISTORIA" tvg-logo="" group-title="Spain-TDT",ES | HISTORIA
+#EXTINF:-1 tvg-id="Historia.es" tvg-name="ES | HISTORIA HD" tvg-logo="" group-title="Spain-TDT",ES | HISTORIA HD
+#EXTINF:-1 tvg-id="Historia.sp" tvg-name="ES | HISTORIA FULLHD" tvg-logo="" group-title="Spain-TDT",ES | HISTORIA FULLHD
+#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="ES | DISCOVERY  CHANNEL" tvg-logo="" group-title="Spain-TDT",ES | DISCOVERY  CHANNEL
+#EXTINF:-1 tvg-id="Odisea.sp" tvg-name="ES | ODISEA" tvg-logo="" group-title="Spain-TDT",ES | ODISEA
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES | NATIONAL GEOGRAPHIC" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES | NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="ES | NAT GEO FULLHD" tvg-logo="" group-title="Spain-TDT",ES | NAT GEO FULLHD
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES | NATIONAL GEOGRAFIC WILD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAFIC WILD
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES | NATIONAL GEOGRAFIC WILD HD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAFIC WILD HD
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES | NATIONAL GEOGRAFIC WILD FULLHD" tvg-logo="" group-title="Spain-TDT",ES | NATIONAL GEOGRAFIC WILD FULLHD
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="ES | DMAX" tvg-logo="" group-title="Spain-TDT",ES | DMAX
+#EXTINF:-1 tvg-id="DKISS" tvg-name="ES | DKISS" tvg-logo="" group-title="Spain-TDT",ES | DKISS
+#EXTINF:-1 tvg-id="TEN.es" tvg-name="ES | TEN" tvg-logo="" group-title="Spain-TDT",ES | TEN
+#EXTINF:-1 tvg-id="BLAZE" tvg-name="ES | BLAZE" tvg-logo="" group-title="Spain-TDT",ES | BLAZE
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="ES | Viajar" tvg-logo="" group-title="Spain-TDT",ES | Viajar
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES | VIAJAR HD" tvg-logo="" group-title="Spain-TDT",ES | VIAJAR HD
+#EXTINF:-1 tvg-id="Viajar.es" tvg-name="ES | VIAJAR FULLHD" tvg-logo="" group-title="Spain-TDT",ES | VIAJAR FULLHD
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | CAZA  Y PESCA" tvg-logo="" group-title="Spain-TDT",ES | CAZA  Y PESCA
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | CAZA Y PESCA HD" tvg-logo="" group-title="Spain-TDT",ES | CAZA Y PESCA HD
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES | CAZA Y PESCA FULLHD" tvg-logo="" group-title="Spain-TDT",ES | CAZA Y PESCA FULLHD
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES | IBERALIA TV" tvg-logo="" group-title="Spain-TDT",ES | IBERALIA TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 1 ACCION" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 1 ACCION
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 2 ANIMACION" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 2 ANIMACION
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 3 CIENCIA FICCION" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 3 CIENCIA FICCION
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 4 CRIMEN" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 4 CRIMEN
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 5 TERROR" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 5 TERROR
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 6 DRAMA" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 6 DRAMA
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 7 COMEDIA" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 7 COMEDIA
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 8 ROMANCE" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 8 ROMANCE
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA 9 FAMILIA" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA 9 FAMILIA
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA STAR WARS" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA STAR WARS
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA HARRY POTTER" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA HARRY POTTER
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA X-MEN" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA X-MEN
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA PLANETA DE LOS SIMIOS" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA PLANETA DE LOS SIMIOS
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA Agente 007" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA Agente 007
+#EXTINF:-1 tvg-id="" tvg-name="ES | TAQUILLA SAW" tvg-logo="" group-title="Spain-Taquillas",ES | TAQUILLA SAW
+#EXTINF:-1 tvg-id="" tvg-name="ES | TRIOLOGIA SEÑOR DE LOS ANILLOS" tvg-logo="" group-title="Spain-Infantiles",ES | TRIOLOGIA SEÑOR DE LOS ANILLOS
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Dragon Ball GT" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Dragon Ball GT
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Dragon Ball Super" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Dragon Ball Super
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Dragon Ball Z" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Dragon Ball Z
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Los Caballeros del Zodiaco" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Los Caballeros del Zodiaco
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Mazinger Z" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Mazinger Z
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Aída" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Aída
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Castle" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Castle
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN FOOTER 1" tvg-logo="" group-title="Spain-Deportes",ES | DAZN FOOTER 1
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN FOOTERS 2" tvg-logo="" group-title="Spain-Deportes",ES | DAZN FOOTERS 2
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES | DAZN 1" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 1
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES | DAZN 2 FHD" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 3 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 6" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 6
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 7" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 7
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 8" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 8
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 9" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 9
+#EXTINF:-1 tvg-id="" tvg-name="ES | dazn 12  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | dazn 12  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 11" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 11
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 13" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 13
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 14" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 14
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn 15" tvg-logo="" group-title="Spain-Deportes",ES | Dazn 15
+#EXTINF:-1 tvg-id="" tvg-name="ES | Dazn FHD" tvg-logo="" group-title="Spain-Deportes",ES | Dazn FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 2" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="ES | DAZN 16" tvg-logo="" group-title="Spain-Deportes",ES | DAZN 16
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR #VAMOS" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR #VAMOS
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR VAMOS HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR VAMOS HD
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES | MOVISTAR VAMOS FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR VAMOS FHD
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES | LIGATV BAR FHD" tvg-logo="" group-title="Spain-Deportes",ES | LIGATV BAR FHD
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES | MOVISTAR LA LIGA" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES | MOVISTAR LALIGA HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LALIGA HD
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES | MOVISTAR LA LIGA FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD (BACKUP)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FHD (BACKUP)
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA FHD (2K)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA FHD (2K)
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA (4K)" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA (4K)
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES | MOVISTAR LA LIGA 1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 1
+#EXTINF:-1 tvg-id="TVE ASTRA HD 1.sp" tvg-name="ES | MOVISTAR LA LIGA 1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 1 FULLHD
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES | MOVISTAR  LA LIGA 2" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  LA LIGA 2
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES | MOVISTAR LA LIGA 2 FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 2 FHD
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES | MOVISTAR  LA LIGA 3" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  LA LIGA 3
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES | MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 3 FULLHD ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="M.LaLiga4.es" tvg-name="ES | MOVISTAR LA LIGA 4" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 4
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LALIGA 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LALIGA 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 7  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 9 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LA LIGA 10 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES | MOVISTAR LIGA CAMPEONES" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES | MOVISTAR LIGA CAMPEONES HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES HD
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES | MOVISTAR LIGA CAMPEONES FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | VIP - CHAMPIONS FHD - OP ADR" tvg-logo="" group-title="Spain-Deportes",ES | VIP - CHAMPIONS FHD - OP ADR
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="ES | MOVISTAR LIGA CAMPEONES 1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 1
+#EXTINF:-1 tvg-id="LIGA CAMPEONES 1 FHD" tvg-name="ES | MOVISTAR LIGA CAMPEONES 1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 1 FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA DE CAMPEONES 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="M.LCAMPEON2" tvg-name="ES | MOVISTAR LIGA CAMPEONES 2 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 2 FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 3   ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA DE CAMPEONES 4  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 6  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA CAMPEONES 8 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE HD
+#EXTINF:-1 tvg-id="CanalPlusDeportes.es" tvg-name="ES | MOVISTAR DEPORTE FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | MULTIDEPORTE" tvg-logo="" group-title="Spain-Deportes",ES | MULTIDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 1
+#EXTINF:-1 tvg-id="es.Movistar Deportes 1" tvg-name="ES | MOVISTAR DEPORTE 1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 1 FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 2  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 3  ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 3  ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 4 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 5 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 6 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR DEPORTE 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR DEPORTE 7 ( SOLO FUNCIONA CUANDO HAY EVENTOS )
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES | EUROSPORT" tvg-logo="" group-title="Spain-Deportes",ES | EUROSPORT
+#EXTINF:-1 tvg-id="EurosportHD.es" tvg-name="ES | EUROSPORT HD" tvg-logo="" group-title="Spain-Deportes",ES | EUROSPORT HD
+#EXTINF:-1 tvg-id="EUROSPORT1 HD" tvg-name="ES | EUROSPORT FULL HD" tvg-logo="" group-title="Spain-Deportes",ES | EUROSPORT FULL HD
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-name="ES | Eurosport  2" tvg-logo="" group-title="Spain-Deportes",ES | Eurosport  2
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES | MOVISTAR F1" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR F1
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES | MOVISTAR F1 HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR F1 HD
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES | MOVISTAR F1 FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR F1 FULLHD
+#EXTINF:-1 tvg-id="Golf.es" tvg-name="ES | MOVISTAR  GOLF" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  GOLF
+#EXTINF:-1 tvg-id="Golf.es" tvg-name="ES | MOVISTAR GOLF HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR GOLF HD
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="ES | MOVISTAR GOLF FHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-id="BARCA TV FHD" tvg-name="ES | BARCA TV" tvg-logo="" group-title="Spain-Deportes",ES | BARCA TV
+#EXTINF:-1 tvg-id="BARCA TV FHD" tvg-name="ES | BARCA TV FHD" tvg-logo="" group-title="Spain-Deportes",ES | BARCA TV FHD
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES | REAL MADRID TV" tvg-logo="" group-title="Spain-Deportes",ES | REAL MADRID TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES | REAL MADRID FHD" tvg-logo="" group-title="Spain-Deportes",ES | REAL MADRID FHD
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES | GOL TV" tvg-logo="" group-title="Spain-Deportes",ES | GOL TV
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES | GOL HD" tvg-logo="" group-title="Spain-Deportes",ES | GOL HD
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES | GOL TV FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | GOL TV FULLHD
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES | TELEDEPORTE" tvg-logo="" group-title="Spain-Deportes",ES | TELEDEPORTE
+#EXTINF:-1 tvg-id="es.Telemadrid" tvg-name="ES | TELEDEPORTE FULL HD" tvg-logo="" group-title="Spain-Deportes",ES | TELEDEPORTE FULL HD
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES | MOVISTAR  TOROS" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR  TOROS
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES | MOVISTAR TOROS HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR TOROS HD
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES | MOVISTAR TOROS FULLHD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR TOROS FULLHD
+#EXTINF:-1 tvg-id="Esport3.es" tvg-name="ES | ESPORT 3" tvg-logo="" group-title="Spain-Autonomicos",ES | ESPORT 3
+#EXTINF:-1 tvg-id="Trece.es" tvg-name="ES | TRECE" tvg-logo="" group-title="Spain-Autonomicos",ES | TRECE
+#EXTINF:-1 tvg-id="la1.es" tvg-name="ES | HIT TV" tvg-logo="" group-title="Spain-Autonomicos",ES | HIT TV
+#EXTINF:-1 tvg-id="8tv.es" tvg-name="ES | 8Tv" tvg-logo="" group-title="Spain-Autonomicos",ES | 8Tv
+#EXTINF:-1 tvg-id="ARAGON TV INT" tvg-name="ES | ARAGON TV" tvg-logo="" group-title="Spain-Autonomicos",ES | ARAGON TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | SOL Music" tvg-logo="" group-title="Spain-Autonomicos",ES | SOL Music
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES | MEZZO LIVE" tvg-logo="" group-title="Spain-Autonomicos",ES | MEZZO LIVE
+#EXTINF:-1 tvg-id="" tvg-name="ES | MEZZO LIVE FULL HD" tvg-logo="" group-title="Spain-Autonomicos",ES | MEZZO LIVE FULL HD
+#EXTINF:-1 tvg-id="" tvg-name="ES | 7RM FULLHD" tvg-logo="" group-title="Spain-Autonomicos",ES | 7RM FULLHD
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="ES | CANAL SUR" tvg-logo="" group-title="Spain-Autonomicos",ES | CANAL SUR
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es" tvg-name="ES | CANAL SUR FHD" tvg-logo="" group-title="Spain-Autonomicos",ES | CANAL SUR FHD
+#EXTINF:-1 tvg-id="CMM.es" tvg-name="ES | CMM FULLHD" tvg-logo="" group-title="Spain-Autonomicos",ES | CMM FULLHD
+#EXTINF:-1 tvg-id="ETB1.es" tvg-name="ES | ETB 1" tvg-logo="" group-title="Spain-Autonomicos",ES | ETB 1
+#EXTINF:-1 tvg-id="ExtremaduraSAT.es" tvg-name="ES | EXTREMADURA TV" tvg-logo="" group-title="Spain-Autonomicos",ES | EXTREMADURA TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | LA OTRA" tvg-logo="" group-title="Spain-Autonomicos",ES | LA OTRA
+#EXTINF:-1 tvg-id="" tvg-name="ES | INTERECONOMIA" tvg-logo="" group-title="Spain-Autonomicos",ES | INTERECONOMIA
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="ES | TELEMADRID FHD" tvg-logo="" group-title="Spain-Autonomicos",ES | TELEMADRID FHD
+#EXTINF:-1 tvg-id="FOXNWS ASTRA SD 1.sp" tvg-name="ES | FOX NEWS" tvg-logo="" group-title="Spain-Autonomicos",ES | FOX NEWS
+#EXTINF:-1 tvg-id="324.es" tvg-name="ES | 3/24" tvg-logo="" group-title="Spain-Autonomicos",ES | 3/24
+#EXTINF:-1 tvg-id="" tvg-name="ES | 324 Exclusiu" tvg-logo="" group-title="Spain-Autonomicos",ES | 324 Exclusiu
+#EXTINF:-1 tvg-id="TV3.es" tvg-name="ES | TV3" tvg-logo="" group-title="Spain-Autonomicos",ES | TV3
+#EXTINF:-1 tvg-id="" tvg-name="ES | Lebrija TV" tvg-logo="" group-title="Spain-Autonomicos",ES | Lebrija TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | Teleonuba" tvg-logo="" group-title="Spain-Autonomicos",ES | Teleonuba
+#EXTINF:-1 tvg-id="" tvg-name="ES | InterAlmería TV" tvg-logo="" group-title="Spain-Autonomicos",ES | InterAlmería TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | PTV Málaga" tvg-logo="" group-title="Spain-Autonomicos",ES | PTV Málaga
+#EXTINF:-1 tvg-id="" tvg-name="ES | Condavisión" tvg-logo="" group-title="Spain-Autonomicos",ES | Condavisión
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="ES | CLASSICA" tvg-logo="" group-title="Spain-Autonomicos",ES | CLASSICA
+#EXTINF:-1 tvg-id="" tvg-name="ES | TV 3 CAMERES" tvg-logo="" group-title="Spain-Autonomicos",ES | TV 3 CAMERES
+#EXTINF:-1 tvg-id="Panda.es" tvg-name="ES | CANAL PANDA FULLHD" tvg-logo="" group-title="Spain-Infantiles",ES | CANAL PANDA FULLHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | Mola TV" tvg-logo="" group-title="Spain-Autonomicos",ES | Mola TV
+#EXTINF:-1 tvg-id="Super3.es" tvg-name="ES | Super3/33" tvg-logo="" group-title="Spain-Autonomicos",ES | Super3/33
+#EXTINF:-1 tvg-id="TV3.es" tvg-name="ES | TV3 FHD" tvg-logo="" group-title="Spain-Autonomicos",ES | TV3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="ES | BOM CINE" tvg-logo="" group-title="Spain-Taquillas",ES | BOM CINE
+#EXTINF:-1 tvg-id="" tvg-name="ES | MOVISTAR LIGA 1 HD" tvg-logo="" group-title="Spain-Deportes",ES | MOVISTAR LIGA 1 HD
+#EXTINF:-1 tvg-id="VH1.es" tvg-name="ES | VH1" tvg-logo="" group-title="Spain-Autonomicos",ES | VH1
+#EXTINF:-1 tvg-id="" tvg-name="ES | FIBRACAT" tvg-logo="" group-title="Spain-Autonomicos",ES | FIBRACAT
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Juego de Tronos" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Juego de Tronos
+#EXTINF:-1 tvg-id="ETB2.es" tvg-name="ES | ETB 2" tvg-logo="" group-title="Spain-Autonomicos",ES | ETB 2
+#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="ES | DISCOVERY CHANNEL" tvg-logo="" group-title="Spain-Autonomicos",ES | DISCOVERY CHANNEL
+#EXTINF:-1 tvg-id="BetisTV.es" tvg-name="ES | BETIS TV" tvg-logo="" group-title="Spain-Autonomicos",ES | BETIS TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | SEVILLA TV" tvg-logo="" group-title="Spain-Autonomicos",ES | SEVILLA TV
+#EXTINF:-1 tvg-id="" tvg-name="ES | 24/7 Los Simpson" tvg-logo="" group-title="Spain-Taquillas",ES | 24/7 Los Simpson
